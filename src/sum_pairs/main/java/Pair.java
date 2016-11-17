@@ -1,4 +1,4 @@
-package sum_pairs.main.java;
+package src.sum_pairs.main.java;
 
 public class Pair {
 
