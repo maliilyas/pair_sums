@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class findPairs {
+public class FindPairs {
 
     public static List<Pair> findAllPairsEqualToSumBigO_N2(final int sum, final int[] array) {
         Arrays.sort(array); // n log n
